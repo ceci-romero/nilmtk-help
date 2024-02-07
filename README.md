@@ -2,7 +2,7 @@
 
 @Wusir2018
 
-Did you ever figure out how to run AFHMM and AFHMM_Exact using NILMtk?
+Did you ever figure out how to run AFHMM and AFHMM_SAC using NILMtk?
 
 I am currently experiencing the exact same issue. And have been unable to find anyone with a feasible solution.
 
